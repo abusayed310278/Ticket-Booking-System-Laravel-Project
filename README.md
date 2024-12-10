@@ -2,7 +2,7 @@
 
 <b>create project:</b></br>
 
-<i style="background-color:F5F4F5">composer create-project Laravel/laravel=10 ticket-booking-system</i>
+<i >composer create-project Laravel/laravel=10 ticket-booking-system</i>
 
 
 <b>admin login link:</b></br>
