@@ -18,8 +18,8 @@
 <i >npm run dev</i>
 
 <b>install breeze package:</b></br>
-<i >composer require laravel/breeze --dev</i>
-<i >php artisan breeze:install</i>
-<i >php artisan migrate</i>
-<i >npm install</i>
-<i >npm run dev</i>
+<i >composer require laravel/breeze --dev</i></br>
+<i >php artisan breeze:install</i></br>
+<i >php artisan migrate</i></br>
+<i >npm install</i></br>
+<i >npm run dev</i></br>
