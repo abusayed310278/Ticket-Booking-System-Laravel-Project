@@ -20,7 +20,6 @@
 <b>install breeze package:</b></br>
 <i >composer require laravel/breeze --dev</i>
 <i >php artisan breeze:install</i>
- 
 <i >php artisan migrate</i>
 <i >npm install</i>
 <i >npm run dev</i>
