@@ -10,3 +10,17 @@
 
 <b>For alert message install toastr package:</b></br>
 <i >composer require yoeunes/toastr</i>
+
+<b>For run php server:</b></br>
+<i >php artisan server</i>
+
+<b>For run vite server:</b></br>
+<i >npm run dev</i>
+
+<b>install breeze package:</b></br>
+<i >composer require laravel/breeze --dev</i>
+<i >php artisan breeze:install</i>
+ 
+<i >php artisan migrate</i>
+<i >npm install</i>
+<i >npm run dev</i>
