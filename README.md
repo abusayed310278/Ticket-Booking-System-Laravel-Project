@@ -23,3 +23,7 @@
 <i >php artisan migrate</i></br>
 <i >npm install</i></br>
 <i >npm run dev</i></br>
+
+<b>install yajra plugin:</b></br>
+<i > composer require yajra/laravel-datatables:^10.0</i></br>
+<i>npm i laravel-datatables-vite --save-dev</i></br>
